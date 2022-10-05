@@ -565,7 +565,7 @@ MonoBehaviour:
   frontPassengerT: {fileID: 0}
   rearDriverT: {fileID: 0}
   rearPassengerT: {fileID: 0}
-  motorForce: 1500
+  motorForce: 2500
 --- !u!1 &664191600
 GameObject:
   m_ObjectHideFlags: 0
